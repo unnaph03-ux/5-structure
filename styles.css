@@ -45,3 +45,18 @@ h1 {
     padding: 30px;
 }
 
+.uwm-header {
+    background-color: lavenderblush;
+    color: rgb(142, 87, 63);
+}
+
+.uwm-main {
+    background-color: rgb(229, 242, 243);
+    color: rgb(142, 87, 63);
+}
+
+.uwm-footer {
+    background-color: rgb(255, 214, 221);
+    color: rgb(142, 87, 63);
+}
+
