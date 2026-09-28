@@ -10,8 +10,38 @@ h1 {
     margin: 0;
 }
 
+.branded-border {
+    border-bottom: 4px dotted lightgoldenrodyellow ;
+    padding-bottom: 10px;
+}
+
 .main-header {
     background-color: lightsteelblue;
     color: lightgoldenrodyellow;
     padding: 30px;
 }
+
+.viburnums-header {
+    background-color: rgb(113, 21, 18);
+    color: lightgoldenrodyellow;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.nav-links {
+    color: lightgoldenrodyellow;
+}
+
+.viburnums-main {
+    padding: 30px;
+    background-color: rgb(101, 146, 101);
+    color: lightgoldenrodyellow;
+    margin-bottom: 20px;
+}
+
+.viburnums-footer {
+    background-color: rgb(146, 121, 87);
+    color: lightgoldenrodyellow;
+    padding: 30px;
+}
+
