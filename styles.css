@@ -46,17 +46,26 @@ h1 {
 }
 
 .uwm-header {
-    background-color: lavenderblush;
-    color: rgb(142, 87, 63);
+    background-color: #cfe1f3;
+    color: #7197d3;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.second-links {
+    color: #7197d3;
 }
 
 .uwm-main {
-    background-color: rgb(229, 242, 243);
-    color: rgb(142, 87, 63);
+    background-color: #d3a4a3;
+    color: #fff3f3;
+    margin-bottom: 20px;
+    padding: 30px;
 }
 
 .uwm-footer {
-    background-color: rgb(255, 214, 221);
-    color: rgb(142, 87, 63);
+    background-color: #7197d3;
+    color: #cfe1f3;
+    padding: 30px;
 }
 
