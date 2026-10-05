@@ -21,6 +21,7 @@ h1 {
     padding: 30px;
 }
 
+
 .viburnums-header {
     background-color: rgb(113, 21, 18);
     color: lightgoldenrodyellow;
@@ -30,6 +31,22 @@ h1 {
 
 .nav-links {
     color: lightgoldenrodyellow;
+}
+
+.nav-links:visited {
+    color: rgb(255, 255, 255);
+}
+
+.nav-links:hover {
+    color: black;
+}
+
+.nav-links:active {
+    font-size: 40px;
+}
+
+.nav-links:focus {
+    padding: 10px;
 }
 
 .viburnums-main {
@@ -45,27 +62,4 @@ h1 {
     padding: 30px;
 }
 
-.uwm-header {
-    background-color: #cfe1f3;
-    color: #7197d3;
-    padding: 30px;
-    margin-bottom: 20px;
-}
-
-.second-links {
-    color: #7197d3;
-}
-
-.uwm-main {
-    background-color: #d3a4a3;
-    color: #fff3f3;
-    margin-bottom: 20px;
-    padding: 30px;
-}
-
-.uwm-footer {
-    background-color: #7197d3;
-    color: #cfe1f3;
-    padding: 30px;
-}
 
